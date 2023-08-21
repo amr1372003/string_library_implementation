@@ -4,6 +4,7 @@
 
 ----|--------------------------------------------|----------------------------------------
   1 | my_memchr() -> memchr()                    |11  my_strcpy() -> strcpy()
+----|--------------------------------------------|----------------------------------------
   2 | my_memcmp() -> memcmp()                    |12  my_strncpy() -> strncpy()
   3 | my_memcpy() -> memcpy()                    |13  my_strcspn() -> strcspn()
   4 | my_memmove() -> memmove()                  |14  my_strlen() -> strlen()
