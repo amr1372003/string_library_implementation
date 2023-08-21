@@ -1,9 +1,9 @@
 # string_library_implementation
 ## NOTE This implementation is only a C programming language course task, so it might have some problems.
-### the implementation has only 20 functions from the real 22 functions in the string.h written in C programming language which are :
+### The implementation has only 20 functions from the real 22 functions in the string.h written in C programming language which are :
 
 ----|--------------------------------------------|----------------------------------------
-  
+    | ## implementation -> real                  |## implementation -> real
 ----|--------------------------------------------|----------------------------------------
   1 | my_memchr() -> memchr()                    |11  my_strcpy() -> strcpy()
   2 | my_memcmp() -> memcmp()                    |12  my_strncpy() -> strncpy()
